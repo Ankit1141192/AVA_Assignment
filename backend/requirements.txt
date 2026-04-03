@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+google-generativeai
+supabase
+python-dotenv
+pydantic
+requests
+chart.js  # for backend analytics if needed, but frontend is better
